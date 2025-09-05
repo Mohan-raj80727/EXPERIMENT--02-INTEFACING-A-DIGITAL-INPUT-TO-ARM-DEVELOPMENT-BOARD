@@ -96,8 +96,8 @@ int main(void)
 
  
 ## layout of the circuit 
- <img width="1057" height="798" alt="image" src="https://github.com/user-attachments/assets/6c168757-878f-4948-ae33-62d0a87abadd" />
+<img width="981" height="792" alt="image" src="https://github.com/user-attachments/assets/79760e6e-870c-4494-8b17-29a1c2ab1abe" />
 
- 
+
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
